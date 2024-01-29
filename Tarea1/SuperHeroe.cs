@@ -5,7 +5,7 @@ namespace Tarea1
 {
     public class SuperHeroe
     {
-        // Atributos de la clase SuperHeroe
+        
         public string Nombre { get; set; }
         public string IdentidadSecreta { get; set; }
         public string Ciudad { get; set; }
